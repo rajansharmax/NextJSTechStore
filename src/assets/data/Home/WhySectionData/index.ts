@@ -2,7 +2,7 @@ const WhySectionData = [
   {
     num: "1",
     mintColor: "green",
-    text: "Custom Designed",
+    text: "",
   },
   {
     num: "2",

@@ -10,8 +10,8 @@ import { AntdRegistry } from '@ant-design/nextjs-registry';
 import 'bootstrap/dist/css/bootstrap.css';
 
 export const metadata: Metadata = {
-  title: "Neon Lights",
-  description: "Neon Lights",
+  title: "TechStoreNectJS",
+  description: "TechStoreNectJS",
 };
 
 export default function RootLayout({
